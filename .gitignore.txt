@@ -1,0 +1,52 @@
+# Quartus temporary and generated files
+*.qpf
+*.qsf
+*.srf
+*.rpt
+*.summary
+*.smsg
+*.bak
+*.ddb
+*.log
+*.chg
+*.jdi
+*.pof
+*.sof
+*.ttf
+*.eqn
+*.pin
+*.hex
+*.qws
+*.vho
+*.vqm
+*.vco
+*.vcl
+*.vcn
+*.vcm
+*.vcp
+*.vcd
+*.vce
+*.vct
+*.vhw
+*.vhp
+*.vmap
+*.wlf
+*.do
+*.ini
+*.csv
+
+# ModelSim and simulation outputs
+/work/
+simulation/
+transcript
+vsim.wlf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup or temporary files
+*.tmp
+*.bak
+*.old
+*.swp
