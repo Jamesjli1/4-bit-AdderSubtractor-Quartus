@@ -1,7 +1,7 @@
 # COE328 Lab 3 – 4-bit Adder/Subtractor Unit
 
 **Course:** COE 328 – Digital Systems  
-**Institution:** Toronto Metropolitan University   
+**School:** Toronto Metropolitan University   
 **Lab:** 3 – Adder and Subtractor Unit  
 **Platform:** Quartus II 13.0 / VHDL  
 **Board:** Cyclone II FPGA development board  
