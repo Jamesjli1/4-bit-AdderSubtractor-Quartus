@@ -14,7 +14,8 @@
 - Design and build a **4-bit Adder/Subtractor Unit (ASU)** using VHDL.  
 - Implement both **addition and subtraction** using a common `Cin` input.  
 - Develop a **Seven-Segment Display (SSD)** driver for hexadecimal and signed outputs.  
-- Create a **Combinational Circuit (C.vhd)** to display the **student ID digits** using minimized logic expressions.  
+- Create a **Combinational Circuit (C.vhd)** to display the **student ID digits** using minimized logic expressions.
+- **Program the design onto the Cyclone board**, where the signed arithmetic results are displayed on the on-board seven-segment displays.
 
 ---
 
